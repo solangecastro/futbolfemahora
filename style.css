@@ -1,0 +1,109 @@
+/*style.css*/
+body{
+  background: #95389e;
+  color: black;
+  font-size: 15px;
+  font-family: Open Sans;
+}
+h1{
+  font-family: Open Sans;
+  color: white;
+  font-weight: lighter;
+  font-size: 10px;
+}
+
+h2 {
+  font-family: Open Sans, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/3618501/pexels-photo-3618501.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding: 5px;
+  font-weight: lighter;
+  background-color: black;
+}
+#banner p {
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  background-color: black;
+  text-align: center
+  margin: 10px;
+}
+
+.title {
+  font-weight: bold;
+  background-color: black;
+  text-align: center;
+  margin: 10px;
+}
+
+
+
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+#footer p {
+  text-align: center;
+}
+
+.card {
+  padding: 10px;
+  font-weight: lighter;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.card-body {
+  color: white;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.news {
+  padding: 20px;
+  background-color: black;
+}
